@@ -16,7 +16,7 @@ Electronic Scheme
 3D Visualization and Progress
 -------
 
-![image](https://i.imgur.com/SKj16Ml.png)
+![image]()
 
 
 
